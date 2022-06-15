@@ -1,7 +1,7 @@
 # protein-encoding-projects
 Protein encoding for mashine learning tasks &amp; predictor's testing methods
 Archive CreatePredictor_AAINDEX_based.zip contain c++ program text, for creating predictors by protein sequence.
-Predictors based on aminoacid's phisical & chemical properties from fatabese AAINDEX*.
+Predictors based on aminoacid's phisical & chemical properties from databese AAINDEX*.
 
 File TEST\CowardVariables.task is a simple example of tume file for creating predictor's set. 
 
