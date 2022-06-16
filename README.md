@@ -13,5 +13,7 @@ given with the testing procedure CowardVariables_test::first_test()
 
 *. Kawashima S., Pokarowski P., Pokarowska M., Kolinski A., Katayama T., Kanehisa M. 2008. AAindex: amino acid index database, progress report 2008. Nucleic Acids Res. 36, D202-205. 
 
-#1. DiscrAnStepwide  - Stepwise discriminant analysis
-A model of discrimination is built step-by-step. Specifically, at each step all variables are reviewed and evaluated to determine which one will contribute most to the discrimination between groups. 
+#2. DiscrAnStepwide  - Stepwise discriminant analysis
+A model of discrimination is built step-by-step. Specifically, at each step all variables are reviewed and evaluated to determine which one will contribute most to the discrimination between groups. Archeve DiscrAnStepwide contain c++ program text,
+
+Files ex.dat ex.names are required for program testing
