@@ -17,4 +17,5 @@ given with the testing procedure CowardVariables_test::first_test()
 A model of discrimination is built step-by-step. Specifically, at each step all variables are reviewed and evaluated to determine which one will contribute most to the discrimination between groups. Archeve sda.zip contain c++ program text, and test data files. 
 
 Files ex.dat ex.names are required for program testing
-For derain read README.md from sda.zip
+
+For detain read README.md from sda.zip
