@@ -20,5 +20,5 @@ Files ex.dat ex.names are required for program testing
 
 For detain read README.md from sda.zip
 
-# 3 The program performs protein chain assignment by Protein Block according to RMSD & RMSDA metrics. Input - standard PDB file.
+#3 The program performs protein chain assignment by Protein Block according to RMSD & RMSDA metrics. Input - standard PDB file.
 For detain read README.md from PB_RMSD_release
